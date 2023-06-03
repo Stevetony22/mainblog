@@ -1,0 +1,444 @@
+@media only screen and (max-width: 480px) {
+  .topu {
+    font-size: 35px;
+  }
+  .merg {
+    padding: 10px;
+    font-size: 15px;
+  }
+  .letter {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .letter li {
+    padding-bottom: 10px;
+    font-size: 20px;
+  }
+  .custw {
+    margin-left: 90px;
+    font-size: 15px;
+  }
+  .custt {
+    margin-left: 90px;
+    font-size: 15px;
+  }
+  .whatsg {
+    margin-left: 120px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+  }
+
+  /* information */
+  .information{
+    height: 290vh;
+  }
+  .introd {
+    font-size: 25px;
+    padding-top: 40px;
+  }
+  .intro {
+    font-size: 17px;
+    line-height: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+  .vip {
+    font-size: 25px;
+    padding-top: 40px;
+  }
+  .vvip {
+    font-size: 17px;
+    line-height: 32px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+  .bonus {
+    font-size: 25px;
+    padding-top: 40px;
+  }
+  .bonuss {
+    font-size: 17px;
+    line-height: 32px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+  }
+
+  /* ref */
+  .referral {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-left: 18px;
+  }
+  .input {
+    padding: 7px 100px;
+    border-radius: 10px;
+    font-size: 20px;
+  }
+  .please {
+    font-size: 15px;
+    display: none;
+  }
+  .not {
+    font-size: 15px;
+    margin-top: -1px;
+    display: none;
+  }
+  .wrong {
+    font-size: 15px;
+    display: none;
+  }
+  .checks {
+    padding: 10px 35px;
+    font-size: 15px;
+    margin-bottom: 30px;
+    margin-left: 112px;
+    margin-top: 10px;
+  }
+
+  /* ref link */
+  .overall {
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 30px 30px;
+    margin-top: 50px;
+  }
+  .link {
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+  .linkdd {
+    padding: 7px 120px;
+    margin-bottom: 2px;
+  }
+  .copied {
+    padding: 6px 10px;
+    margin-left: 320px;
+    margin-top: 15px;
+  }
+
+  .telegg {
+    margin-left: 120px;
+    font-size: 18px;
+  }
+
+  /* investment */
+  /* first */
+  .hens {
+    width: 350px;
+    height: 250px;
+  }
+  .stock {
+    font-size: 20px;
+  }
+  .firstprice {
+    font-size: 30px;
+  }
+
+  .duration {
+    padding: 9px 13px;
+    margin-left: 270px;
+  }
+  .dfirstprice {
+    font-size: 30px;
+  }
+
+  .firstlytwo {
+    margin-left: 180px;
+  }
+  .buuy {
+    padding: 15px 150px;
+    font-size: 15px;
+    margin-left: 6px;
+    margin-bottom: 20px;
+  }
+  /* second */
+  .secondprice {
+    font-size: 30px;
+  }
+
+  .dsecondprice {
+    font-size: 30px;
+  }
+
+  .secondlytwo {
+    margin-left: 180px;
+  }
+  .buuya {
+    padding: 15px 150px;
+    font-size: 15px;
+    margin-left: 6px;
+    margin-bottom: 20px;
+  }
+  /* third */
+  .thirdprice {
+    font-size: 30px;
+  }
+
+  .dthirdprice {
+    font-size: 30px;
+  }
+
+  .thirdlytwo {
+    margin-left: 165px;
+  }
+  .buuyb {
+    padding: 15px 150px;
+    font-size: 15px;
+    margin-left: 6px;
+    margin-bottom: 20px;
+  }
+  /* fourth */
+  .fourthprice {
+    font-size: 30px;
+  }
+
+  .dfourthprice {
+    font-size: 30px;
+  }
+
+  .fourthlytwo {
+    margin-left: 160px;
+  }
+  .buuyc {
+    padding: 15px 150px;
+    font-size: 15px;
+    margin-left: 6px;
+    margin-bottom: 20px;
+  }
+  /* fifth */
+  .fifthprice {
+    font-size: 30px;
+  }
+
+  .dfifthprice {
+    font-size: 30px;
+  }
+
+  .fifthlytwo {
+    margin-left: 160px;
+  }
+  .buuyd {
+    padding: 15px 150px;
+    font-size: 15px;
+    margin-left: 6px;
+    margin-bottom: 20px;
+  }
+  /* sixth */
+  .sixthprice {
+    font-size: 30px;
+  }
+
+  .sixthprice {
+    font-size: 30px;
+  }
+
+  .sixthytwo {
+    margin-left: 160px;
+  }
+  .buuye {
+    padding: 15px 150px;
+    font-size: 15px;
+    margin-left: 6px;
+    margin-bottom: 20px;
+  }
+  /* seventh */
+  .seventhprice {
+    font-size: 30px;
+  }
+  .cows {
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+  }
+  .dseventhprice {
+    font-size: 30px;
+  }
+
+  .seventhlytwo {
+    margin-left: 160px;
+  }
+  .buuyf {
+    padding: 15px 150px;
+    font-size: 15px;
+    margin-left: 6px;
+    margin-bottom: 20px;
+  }
+  /* eigth */
+  .eigthprice {
+    font-size: 30px;
+  }
+
+  .deigthprice {
+    font-size: 30px;
+  }
+
+  .eigthlytwo {
+    margin-left: 160px;
+  }
+  .buuyg {
+    padding: 15px 150px;
+    font-size: 15px;
+    margin-left: 6px;
+    margin-bottom: 20px;
+  }
+  /* ninth */
+  .ninthprice {
+    font-size: 30px;
+  }
+
+  .dninthprice {
+    font-size: 30px;
+  }
+
+  .ninthlytwo {
+    margin-left: 160px;
+  }
+  .buuyh {
+    padding: 15px 150px;
+    font-size: 15px;
+    margin-left: 6px;
+    margin-bottom: 20px;
+  }
+  /* tenth */
+  .tenthprice {
+    font-size: 30px;
+  }
+
+  .dtenthprice {
+    font-size: 30px;
+  }
+
+  .tenthlytwo {
+    margin-left: 160px;
+  }
+  .buuyi {
+    padding: 15px 150px;
+    font-size: 15px;
+    margin-left: 6px;
+    margin-bottom: 20px;
+  }
+  /* eleventh */
+  .eleventhprice {
+    font-size: 30px;
+  }
+
+  .deleventhprice {
+    font-size: 30px;
+  }
+
+  .eleventhlytwo {
+    margin-left: 160px;
+  }
+  .buuyj {
+    padding: 15px 150px;
+    font-size: 15px;
+    margin-left: 6px;
+    margin-bottom: 20px;
+  }
+
+  /* deposit */
+  .allandalls{
+    padding-top: 5px;
+  }
+  .toppest {
+    padding-top: 10px;
+  }
+
+  .elsa {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .amount {
+    padding-top: 20px;
+    font-size: 12px;
+  }
+  .pay {
+    font-size: 35px;
+  }
+  .instru {
+    font-size: 12px;
+  }
+  .warn {
+    font-size: 16px;
+  }
+  .account {
+    margin-top: -8px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+  }
+
+  .accnum {
+    font-size: 12px;
+  }
+  .copy {
+    padding: 6px 8px;
+    margin-left: 140px;
+  }
+  .accno {
+    font-size: 30px;
+    margin-top: -26px;
+  }
+
+  .ban {
+    font-size: 12px;
+  }
+  .bank {
+    font-size: 18px;
+  }
+
+  .accn {
+    font-size: 12px;
+    margin-top: -15px;
+  }
+  .named {
+    font-size: 16px;
+  }
+
+  .email {
+    font-size: 14px;
+  }
+  .complete {
+    padding: 13px 100px;
+    font-size: 15px;
+    margin-left: 37px;
+    margin-bottom: 30px;
+    margin-top: -5px;
+  }
+
+  /* taskbar */
+  .glass {
+    width: 100%;
+    background-color: #083b08;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 9;
+    box-sizing: border-box;
+  }
+  .downr {
+    margin-left: 25px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .downt {
+    margin-left: 130px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .downm {
+    margin-left: 130px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+}
